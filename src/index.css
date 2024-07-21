@@ -13,7 +13,11 @@ body {
   width: 100dvw;
   overflow-x: hidden;
   height: 100%;
+<<<<<<< HEAD
   background: #000;
+=======
+  background: hsl(0, 0%, 0%);
+>>>>>>> e04a2b9115f5fcb2376b9759ba1c44fc48a825a1
   border-color: #3b3b3b;
   user-select: none;
 }

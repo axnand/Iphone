@@ -22,6 +22,9 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+<<<<<<< HEAD
 
 # Sentry Config File
 .env.sentry-build-plugin
+=======
+>>>>>>> e04a2b9115f5fcb2376b9759ba1c44fc48a825a1

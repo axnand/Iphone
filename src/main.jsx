@@ -3,6 +3,7 @@ import ReactDOM from 'react-dom/client'
 import App from './App.jsx'
 import './index.css'
 
+<<<<<<< HEAD
 //...
 import * as Sentry from "@sentry/react";
 
@@ -25,6 +26,8 @@ Sentry.init({
   replaysOnErrorSampleRate: 1.0, 
 });
 
+=======
+>>>>>>> e04a2b9115f5fcb2376b9759ba1c44fc48a825a1
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
     <App />
