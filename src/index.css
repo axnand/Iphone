@@ -13,7 +13,7 @@ body {
   width: 100dvw;
   overflow-x: hidden;
   height: 100%;
-  background: #000;
+  background: hsl(0, 0%, 0%);
   border-color: #3b3b3b;
   user-select: none;
 }
@@ -22,7 +22,7 @@ canvas {
   touch-action: none;
 }
 
-.scrim-max-width {
+.screen-max-width {
   margin-inline-start: auto;
   margin-inline-end: auto;
   position: relative;
